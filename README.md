@@ -15,6 +15,6 @@
 
 4 . 7일 간 날씨 예보
 
-## 실행 화면
+# 실행 화면
 
 ![화면 캡처 2021-06-22 013710](https://user-images.githubusercontent.com/51700274/122797376-600c2e00-d2fa-11eb-88d1-f1fa98bf4fc6.jpg)
